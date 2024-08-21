@@ -1,6 +1,8 @@
-# Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 21/08/2024
+### Developed by: Syed Abdul Wasih H
+### Register Number: 212221240057
+### Date:
 
+# Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
 ### ALGORITHM:
